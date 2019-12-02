@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9b89ed1-3ec8-4ad8-8072-dd701096e239" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ULYbcSHVufFEcjfP1LAqvFdE5x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="messages" />
+      <recent name="actors" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="example-play-akka" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/work/Codes/concorrente/unidade3/examplo-de-aula-play-akka/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="example-play-akka-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4693281786000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1136958332" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3385628350" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../play-samples-play-java-hello-world-tutorial" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9b89ed1-3ec8-4ad8-8072-dd701096e239" name="Default Changelist" comment="" />
+      <created>1575137414925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575137414925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="78" width="800" height="678" key="#Auto_Import" timestamp="1575293439073">
+      <screen x="0" y="34" width="1280" height="766" />
+    </state>
+    <state x="235" y="78" width="800" height="678" key="#Auto_Import/0.34.1280.766@0.34.1280.766" timestamp="1575293439073" />
+    <state x="448" y="103" width="374" height="627" key="#com.intellij.ide.util.MemberChooser" timestamp="1575303710124">
+      <screen x="0" y="34" width="1280" height="766" />
+    </state>
+    <state x="448" y="103" width="374" height="627" key="#com.intellij.ide.util.MemberChooser/0.34.1280.766@0.34.1280.766" timestamp="1575303710124" />
+    <state x="397" y="34" width="476" height="766" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575305962034">
+      <screen x="0" y="34" width="1280" height="766" />
+    </state>
+    <state x="397" y="34" width="476" height="766" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.34.1280.766@0.34.1280.766" timestamp="1575305962034" />
+    <state x="373" y="166" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1575293061891">
+      <screen x="0" y="34" width="1280" height="766" />
+    </state>
+    <state x="373" y="166" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.34.1280.766@0.34.1280.766" timestamp="1575293061891" />
+    <state x="400" y="285" width="470" height="263" key="NewModule_or_Project.wizard" timestamp="1575137692699">
+      <screen x="0" y="34" width="1280" height="766" />
+    </state>
+    <state x="400" y="285" width="470" height="263" key="NewModule_or_Project.wizard/0.34.1280.766@0.34.1280.766" timestamp="1575137692699" />
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1575287355086">
+      <screen x="0" y="34" width="1280" height="766" />
+    </state>
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.34.1280.766@0.34.1280.766" timestamp="1575287355086" />
+    <state x="432" y="109" width="416" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575305603864">
+      <screen x="0" y="34" width="1280" height="766" />
+    </state>
+    <state x="432" y="109" width="416" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.34.1280.766@0.34.1280.766" timestamp="1575305603864" />
+    <state x="323" y="156" width="634" height="554" key="find.popup" timestamp="1575295909120">
+      <screen x="0" y="34" width="1280" height="766" />
+    </state>
+    <state x="323" y="156" width="634" height="554" key="find.popup/0.34.1280.766@0.34.1280.766" timestamp="1575295909120" />
+    <state x="343" y="46" width="583" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1575304789498">
+      <screen x="0" y="34" width="1280" height="766" />
+    </state>
+    <state x="343" y="46" width="583" height="741" key="refactoring.ChangeSignatureDialog/0.34.1280.766@0.34.1280.766" timestamp="1575304789498" />
+  </component>
+</project>
